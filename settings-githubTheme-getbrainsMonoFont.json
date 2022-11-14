@@ -40,6 +40,7 @@
   },
   "diffEditor.ignoreTrimWhitespace": false,
   "security.workspace.trust.untrustedFiles": "open",
+  "php.validate.executablePath": "D:/wamp64/bin/php/php7.4.26/php.exe",
   "javascript.updateImportsOnFileMove.enabled": "always",
   "diffEditor.wordWrap": "on",
   "[javascript]": {
@@ -55,17 +56,21 @@
   "[aspnetcorerazor]": {
     "editor.defaultFormatter": "ms-dotnettools.csharp"
   },
+  "window.zoomLevel": 1,
   "git.ignoreRebaseWarning": true,
   "html.format.wrapLineLength": 100,
   "editor.renderWhitespace": "none",
   "window.commandCenter": true,
-  "window.zoomLevel": 1,
   "editor.fontFamily": "JetBrains Mono",
   "editor.letterSpacing": 0.5,
   "editor.lineHeight": 1.7,
   "editor.fontSize": 13,
-  "editor.inlayHints.fontFamily": "default",
-  "editor.codeLensFontFamily": "default",
   "editor.fontLigatures": true,
-  "workbench.colorTheme": "GitHub Dark Default"
+  "workbench.colorTheme": "GitHub Dark Default",
+  "editor.codeLensFontFamily": "JetBrains Mono",
+  "scm.inputFontFamily": "JetBrains Mono",
+  "debug.console.fontFamily": "JetBrains Mono",
+  "terminal.integrated.fontFamily": "JetBrains Mono",
+  "editor.inlayHints.fontFamily": "JetBrains Mono",
+  "notebook.outputFontFamily": "JetBrains Mono"
 }
