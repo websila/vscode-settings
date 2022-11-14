@@ -1,0 +1,71 @@
+{
+  "files.autoSave": "afterDelay",
+  "emmet": {
+    "includeLanguages": {
+      "javascript": "javascriptreact",
+      "aspnetcorerazor": "html",
+      "razor": "html"
+    },
+    "triggerExpansionOnTab": true,
+    "showSuggestionsAsSnippets": true,
+    "useInlineCompletions": true
+  },
+  "liveServer": {
+    "settings.donotShowInfoMsg": true,
+    "settings.donotVerifyTags": true
+  },
+  "explorer": {
+    "confirmDelete": false,
+    "confirmDragAndDrop": false,
+    "compactFolders": false
+  },
+  "git": {
+    "enableSmartCommit": true,
+    "autofetch": true,
+    "confirmSync": false
+  },
+  "workbench": {
+    "editor.untitled.hint": "hidden",
+    "startupEditor": "none",
+    "iconTheme": "material-icon-theme",
+    "editorAssociations": {
+      "*.pdf": "default"
+    }
+  },
+  "editor": {
+    "linkedEditing": true,
+    "accessibilitySupport": "on",
+    "defaultFormatter": "esbenp.prettier-vscode",
+    "formatOnSave": true
+  },
+  "diffEditor.ignoreTrimWhitespace": false,
+  "security.workspace.trust.untrustedFiles": "open",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "diffEditor.wordWrap": "on",
+  "[javascript]": {
+    "editor.formatOnSave": true
+  },
+  "files.associations": {
+    "*.cshtml": "aspnetcorerazor"
+  },
+  "[razor]": {
+    "editor.defaultFormatter": "ms-dotnettools.csharp"
+  },
+  "liveServer.settings.donotShowInfoMsg": true,
+  "[aspnetcorerazor]": {
+    "editor.defaultFormatter": "ms-dotnettools.csharp"
+  },
+  "git.ignoreRebaseWarning": true,
+  "html.format.wrapLineLength": 100,
+  "editor.renderWhitespace": "none",
+  "window.commandCenter": true,
+  "window.zoomLevel": 1,
+  "editor.fontFamily": "JetBrains Mono",
+  "editor.letterSpacing": 0.5,
+  "editor.lineHeight": 1.7,
+  "editor.fontSize": 13,
+  "editor.inlayHints.fontFamily": "default",
+  "editor.codeLensFontFamily": "default",
+  "editor.fontLigatures": true,
+  "workbench.colorTheme": "GitHub Dark Default"
+}
